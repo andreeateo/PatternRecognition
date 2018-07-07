@@ -3,6 +3,14 @@ This program recognizes line patterns in a given set of points.
 
 Given a set of *n* distinct points in the plane, the program will find and draw every line segment that connects a subset of 4 or more of the points.
 
+**Project Structure**
+
+- src: project source code
+- test: **JUnit** tests and testing data
+- lib_deps: library dependencies
+- nbproject
+- build.xml: auto-generated Ant build file
+
 **Prerequisites**
 
 1. NetBeans IDE - for download and install go to https://netbeans.org/
